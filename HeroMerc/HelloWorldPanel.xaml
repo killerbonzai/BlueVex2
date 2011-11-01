@@ -1,0 +1,14 @@
+﻿<my:D2Panel x:Class="HeroMerc.HelloWorldPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:Height="430" d:Width="317" xmlns:my="clr-namespace:BlueVex.UI;assembly=BlueVex.UI" d:DesignWidth="239" Loaded="D2Panel_Loaded">
+    <Grid Background="Black" Height="430
+          " Width="238">
+        <my:D2CloseButton Content="Button" Height="39"  Name="d2CloseButton" VerticalAlignment="Bottom" Width="40" Click="d2CloseButton_Click" HorizontalAlignment="Right" Margin="0,0,18,12" />
+        <Label Content="Hello World" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" Width="120" Foreground="White" />
+        <Button Content="Move" Height="75" HorizontalAlignment="Left" Margin="58,115,0,0" Name="button1" VerticalAlignment="Top" Width="115" Click="button1_Click" />
+    </Grid>
+</my:D2Panel>

@@ -1,0 +1,15 @@
+C:\Users\Bonzai\BlueVex Testing\D2Packets.dll
+C:\Users\Bonzai\BlueVex Testing\D2Packets.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\D2Packets\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bonzai\Desktop\Bluevex2\D2Packets\obj\Debug\D2Packets.dll
+C:\Users\Bonzai\Desktop\Bluevex2\D2Packets\obj\Debug\D2Packets.pdb
+E:\My Dropbox\egne projekter\BlueVex Testing\D2Packets.dll
+E:\My Dropbox\egne projekter\BlueVex Testing\D2Packets.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\D2Packets\obj\Debug\ResolveAssemblyReference.cache
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\D2Packets\obj\Debug\D2Packets.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\D2Packets\obj\Debug\D2Packets.pdb
+D:\Dropbox\egne projekter\BlueVex Testing\D2Packets.dll
+D:\Dropbox\egne projekter\BlueVex Testing\D2Packets.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\D2Packets\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\D2Packets\obj\Debug\D2Packets.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\D2Packets\obj\Debug\D2Packets.pdb

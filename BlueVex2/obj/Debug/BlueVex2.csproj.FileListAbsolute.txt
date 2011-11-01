@@ -1,0 +1,96 @@
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe.config
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex2.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex.Core.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex.UI.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\D2Packets.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\D2Data.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\D2Compression.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\ETUtils.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex.Core.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex.UI.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\D2Packets.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\D2Compression.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\D2Compression.xml
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.frmMain.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Properties.Resources.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.AccountForm.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.GamesForm.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.InstallationForm.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.SettingsForm.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Tabs.ConsoleTab.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\ResGen.read.1.tlog
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\ResGen.write.1.tlog
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.exe
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.g.resources
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe.manifest
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\bin\Debug\BlueVex2.application
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.exe.manifest
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.application
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex2\obj\Debug\BlueVex2.frmCustomActions.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe.config
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe.manifest
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.application
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.Core.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.UI.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Packets.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Data.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Compression.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\ETUtils.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.Core.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.UI.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Packets.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Compression.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Compression.xml
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\ResolveAssemblyReference.cache
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.g.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.frmMain.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Properties.Resources.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.AccountForm.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.GamesForm.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.InstallationForm.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.SettingsForm.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Tabs.ConsoleTab.resources
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\ResGen.read.1.tlog
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\ResGen.write.1.tlog
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.TrustInfo.xml
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.exe.manifest
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.application
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.exe
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe.config
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe.manifest
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.application
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.exe
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex2.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.Core.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.UI.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Packets.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Data.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Compression.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\ETUtils.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.Core.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\BlueVex.UI.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Packets.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Compression.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\bin\Debug\D2Compression.xml
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.g.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.frmMain.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Properties.Resources.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.AccountForm.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.GamesForm.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Settings.InstallationForm.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.SettingsForm.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.Tabs.ConsoleTab.resources
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\ResGen.read.1.tlog
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\ResGen.write.1.tlog
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.TrustInfo.xml
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.exe.manifest
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.application
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.exe
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex2\obj\Debug\BlueVex2.pdb

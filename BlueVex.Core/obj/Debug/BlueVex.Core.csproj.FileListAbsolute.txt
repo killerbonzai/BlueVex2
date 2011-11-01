@@ -1,0 +1,42 @@
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.Core.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.Core.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.UI.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\D2Data.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\D2Packets.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\ETUtils.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.UI.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.xml
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\bin\Debug\D2Packets.pdb
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\obj\Debug\BlueVex.Core.dll
+C:\Users\Bonzai\Desktop\Bluevex2\BlueVex.Core\obj\Debug\BlueVex.Core.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.Core.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.Core.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.UI.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Data.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Packets.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\ETUtils.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.UI.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.xml
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Packets.pdb
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\obj\Debug\BlueVex.Core.dll
+E:\My Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\obj\Debug\BlueVex.Core.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.Core.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.Core.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.UI.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Data.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Packets.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\ETUtils.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\BlueVex.UI.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Compression.xml
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\bin\Debug\D2Packets.pdb
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\obj\Debug\BlueVex.Core.dll
+D:\Dropbox\egne projekter\red+bluevex\Bluevex2\BlueVex.Core\obj\Debug\BlueVex.Core.pdb

@@ -1,0 +1,23 @@
+﻿<Button x:Class="BlueVex.UI.D2CloseButton"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="39" Width="40">
+    <Button.Template>
+        <ControlTemplate TargetType="{x:Type Button}">
+            <Grid>
+                <Image Name="Normal" Source="Resources/Close.png"/>
+                <Image Name="Pressed" Source="Resources/ClosePressed.png" Visibility="Hidden"/>
+                <Image Name="Disabled" Source="Resources/Close.png" Visibility="Hidden"/>
+            </Grid>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter TargetName="Normal" Property="Visibility" Value="Hidden"/>
+                    <Setter TargetName="Pressed" Property="Visibility" Value="Visible"/>
+                </Trigger>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter TargetName="Normal" Property="Visibility" Value="Hidden"/>
+                    <Setter TargetName="Disabled" Property="Visibility" Value="Visible"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Button.Template>
+</Button>
