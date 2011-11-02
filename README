@@ -1,3 +1,5 @@
+Just added README by fett007 to have something :)
+
 Introduction
 
 This is the (informal) ReadMe document for BlueVex2 developed by Pleh.   Don’t bitch at him if something is incorrect, Fett007 was responsible for the ReadMe.  BlueVex2 is a standalone program separate from RedVex3.01 and BlueVex 5.4 (actually BlueVex Beta 5, version 4).   BlueVex2 was coded with multi-instance support foremost in mind.  Game loader functionality has also been built in to support up to four instances of Diablo 2.  In addition,  each instance supports a transparent overlay to allow graphics to be drawn on top each Diablo instance (as opposed to drawing graphics in game, detectable by Warden).  BlueVex2 is written in C# (with a small bit of code in VB) and is only compatible with Windows Vista and Windows 7.
