@@ -42,24 +42,14 @@ namespace BlueVex2.Tabs
             this.Controls.Add(LoadDiabloButton);
 
             // Crap Fett007 added to bring master variable
-            string username = string.Empty;
-            string password = string.Empty;
-            string charslot = string.Empty;
-
             foreach (string accountString in BlueVex2.Properties.Settings.Default.Accounts)
             {
                 if (accountString.StartsWith(defaultAccount + ","))
                 {
                     string[] parts = accountString.Split(',');
-                    username = parts[0];
-                    password = parts[1];
-                    charslot = parts[2];
                     master = parts[3];
                 }
             }
-                   
-
-
         }
 
         void LoadDiabloButton_Click(object sender, EventArgs e)
@@ -117,7 +107,6 @@ namespace BlueVex2.Tabs
             {
                 if (!string.IsNullOrEmpty(exePath) && System.IO.File.Exists(exePath))
                 {
-                    
                     Process diabloProcess = new Process();
                     ProcessStartInfo info = new ProcessStartInfo();
                     info.FileName = exePath;

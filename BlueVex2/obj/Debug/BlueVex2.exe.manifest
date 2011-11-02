@@ -65,7 +65,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>pi46H1GlJHsrqF6TWD+PHM4gw/c=</dsig:DigestValue>
+        <dsig:DigestValue>HkfptnSfuQeEFhISQhCv8ldj9r0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -77,19 +77,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>DK9k8iX13zsyDCYqeve+577gxZY=</dsig:DigestValue>
+        <dsig:DigestValue>uDuStMxvHGy5U9Jpvbu++z7zf4A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BlueVex2.exe" size="98816">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BlueVex2.exe" size="100352">
       <assemblyIdentity name="BlueVex2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ECujDzNxfSKrYlgV7SGz31q0Zvs=</dsig:DigestValue>
+        <dsig:DigestValue>HcCBqOfaNeYrPjFQyD+Rff0kGR0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -101,7 +101,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>WUo7/NOFPfWzMZda1hfa7n5NBIM=</dsig:DigestValue>
+        <dsig:DigestValue>eZPVFUgJTUaKe7tXDLxjYR0epiU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

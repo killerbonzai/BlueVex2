@@ -82,7 +82,7 @@ namespace BlueVex2
                 string[] parts = installationString.Split(',');
                 if (parts.Length == 3)
                 {
-                    DiabloTab tab = new DiabloTab(parts[0], parts[1], parts[2]);
+                    DiabloTab tab = new DiabloTab(parts[0], parts[1], parts[2]); //keyname , defacc , path
                     this.tabControl1.TabPages.Add(tab);
                     this.tabControl1.SelectedIndexChanged += new EventHandler(tabControl1_SelectedIndexChanged);
                 }
@@ -208,7 +208,7 @@ namespace BlueVex2
             if (error.Length > 0)
             {
                 MessageBox.Show(error, "BlueVex2", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }   
+            }
         }
 
         #region gamemakers
@@ -283,6 +283,51 @@ namespace BlueVex2
         {
             string error = "";
             string temperror = "";
+            foreach (TabPage tab in this.tabControl1.TabPages)
+            {
+                if (tab is DiabloTab)
+                {
+                    temperror = ((DiabloTab)tab).QuitFromChat();
+                    if (temperror.Length > 0)
+                    {
+                        error += tab.Text + ": \r\n" + temperror;
+                    }
+                }
+            }
+            if (error.Length > 0)
+            {
+                MessageBox.Show(error, "BlueVex2", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            if (this.tabControl1.SelectedTab is OverviewTab)
+            {
+                ((OverviewTab)this.tabControl1.SelectedTab).Activate();
+            }
+        }
+
+        private void allExitANDQuitD2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string error = "";
+            string temperror = "";
+            // All exit current game
+            foreach (TabPage tab in this.tabControl1.TabPages)
+            {
+                if (tab is DiabloTab)
+                {
+                    temperror = ((DiabloTab)tab).EveryoneExitGame();
+                    if (temperror.Length > 0)
+                    {
+                        error += tab.Text + ": \r\n" + temperror;
+                    }
+                }
+            }
+            if (error.Length > 0)
+            {
+                MessageBox.Show(error, "BlueVex2", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+            // All close D2 windows
+            // temp 'delayer' or it will try and close too fast and not always close them all
+            MessageBox.Show("Click OK to close all running D2 windows", "BlueVex2", MessageBoxButtons.OK, MessageBoxIcon.Information);
             foreach (TabPage tab in this.tabControl1.TabPages)
             {
                 if (tab is DiabloTab)
