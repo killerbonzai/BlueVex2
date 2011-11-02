@@ -1,0 +1,111 @@
+Introduction
+
+This is the (informal) ReadMe document for BlueVex2 developed by Pleh.   Don’t bitch at him if something is incorrect, Fett007 was responsible for the ReadMe.  BlueVex2 is a standalone program separate from RedVex3.01 and BlueVex 5.4 (actually BlueVex Beta 5, version 4).   BlueVex2 was coded with multi-instance support foremost in mind.  Game loader functionality has also been built in to support up to four instances of Diablo 2.  In addition,  each instance supports a transparent overlay to allow graphics to be drawn on top each Diablo instance (as opposed to drawing graphics in game, detectable by Warden).  BlueVex2 is written in C# (with a small bit of code in VB) and is only compatible with Windows Vista and Windows 7.
+
+The following are contained within the readme document:
+•   Multi-instance Diablo 2 installation using Serby’s CD-Key Changer
+•   BlueVex2  Alpha 2 installation/setup.
+•   BlueVex2  feature documentation
+•   Known bugs/limitations
+•   Copyright
+•   Version change logs
+
+Multi-Instance Diablo 2 Installation 
+
+BlueVex2 is capable of running 4 simultaneous Diablo 2 instances.  Each instance must be installed in a specific manner so that the program is capable of detecting and differentiating between the instances.  The author recommends using Serby’s CD-Key changer.  The program is available (as of 3/1/2010) at www.edgeofnowhere.cc/viewtopic.php?t=425418.  Note that this key-changer is only compatible with the old 16 character keys and not the 26 character key that Is used with the downloadable installation available at battle.net.   
+•   Completely uninstall all previous Diablo 2 instances and delete any remaining folders out of Program Files.
+•   Gather 4 separate CD Key sets (hereafter referred to as CDKey1, CDKey2, etc).
+•   Install Diablo 2 from CD to Program Files/Diablo Base using CDKey4.  IMPORTANT: when installing, enter “Key4” into the owner field.  Install LoD aferwards.   64-bit OS users will use Program Files (x86) instead.
+•   Login to battle.net  and download the latest patch.
+•   Make a copy of Diablo Base folder and rename it to Diablo Key4.
+•   Run D2CDKey.exe and install your CDKey3 information.  Name the owner “Key3”
+•   Make another copy of Diablo Base folder and rename it to Diablo Key3.
+•   Repeat steps 6 and 7 for CDKey2 and owner “Key2” and “
+•   For CDKey1, repeat the same steps except rename Diablo Base to Diablo Key1 instead of making another copy of the folder.
+
+BlueVex2 Alpha 2 Installation/Setup
+
+•   Download BlueVex2 Alpha2.zip from www.redvex.net
+•   Download and install Microsoft Visual Studio 2010.  As of 3/1/2010 there is a release candinate available for free download.  The VS C# express addition appears to be insufficient due to a small part of the core that is written in Visual Basic.  Pleh can comment more on this.
+•   Open and build the BlueVex2 solutions.   BlueVex2 can then be started either from the debugger, or by opening BlueVex2/bin/Debug/BlueVex2.exe
+•   Got the Settings menu and select the Installations list option and click Add
+•   Enter “Key1” for keyname (or whatever the owner of CDKey1 is), the path to CDKey1, and the default Realm account you want to associate with this key.
+•   Respeat step 5 three more times for Key2, Key3, Key4 with their respective directories.  Do not list the same default Realm account for each key.  
+•   Goto the Accounts tab and click add.
+•   For each default account you listed in the Installation tab, add a corresponding username, password, the character slot you would like the program to use, Master status, and the realm you play on.  NOTE:  Make sure to have only one of your accounts listed as the Master status, otherwise the program will crap it’s pants.
+•   Click on the core tab and make sure that Use AutoLogin is not selected.   Make sure that Use BlueVex2 Proxy is selected.
+•   Close and reopen the program.  There should not be 4 additonal tabs listed as Key1, Key2, etc
+•   Goto C:\Windows\System32\drivers\etc and open the hosts file with Notepad.  Add “127.0.0.1   europe.battle.net” without the quotes at the bottom of the file (this assumes you do not actually play on europe.battle.net, if you do, enter one of the other realms”).  Save and close.
+•   In BlueVex2, click on the Key1 Tab and click the Load D2 button.  Change the Gateway to Europe and login to Battle.Net.   If you successfully login, completely exit the game and close BlueVex2.  If you are unable to login, you screwed up one of the steps, or I screwed up the directions.   Login to www.redvex.net and bitch to Fett007 in the BlueVex 2.0 development thread.
+•   Assuming you succeeded in Quest  #12, reload BlueVex, and select “Use AutoLogin” from the Core tab in Settings.  Click OK, then select “Load All Diablo 2 Installations” from the file menu.  Sit back and watch the magic happen.   Consider making some form of donation to Pleh for his awesomeness.  If you are too niggardly to do so, at least tell him thank you for his hard work in the thread. 
+
+BlueVex2 Feature Documentation
+
+BlueVex2 Proxy and Pluggins
+
+BlueVex2 supports a Diablo 2 proxy/pluggin system similar to RedVex.  RedVex plug are not compatible with BlueVex2 (BlueVex2 utlizes the .NET infrastructure, RedVex does not).  BlueVex2’s proxy may be disabled so that RedVex (and it’s associated pluggins) may be used instead.  All of the non-proxy based features of BlueVex2 will still work (Game Loader, Auto-Login, the Game Actions menu).   BlueVex2 plugins will not be loaded when the BlueVex2 proxy is not being used.   If anyone has any success bridging RedVex and BlueVex2, please PM Fett007 with the method so that it may be included In this writeup.  
+
+Auto-Login
+
+The Auto-Login feature of BlueVex2 is without the use of proxies and packets.   It is done by sending clicks and keypresses to the corresponding Diablo 2 windows.   Don’t get all impatient while this is going on or you will mess things up.  This feature can be disabled without requiring a restart.
+
+Resolution Scaling
+
+The diablo 2 game resolution can be scaled upwards from 800x600 to the following: 1000x750, 1200x900, 1400x1050, 1600x1200, 1800x1350, 2000x1500.  Note that the dimensions of the entire BlueVex2 program will be somewhat larger than the listen resolutions to fit menus, etc.  Resolution scaling is accomplished by your video card.  If you have a crappy video card, don’t be surprised when you can’t run 4 games at 1600x1200 resolutions.  Resolution changes require an application restart.
+
+Multi-Instance Overview
+
+The overview tab provides a view of all running diablo instances by utilizing the Live Thumbnail feature of Windows Vista/7.   Obviously you cannot click on these windows to control the games.  
+
+Game Actions:  Everyone Exit
+
+This will send the following keypresses to all instances: Escape, Up, Enter.  It is intended to have all characters exit a game.  There is no packet detection/manipulation invovled in this process.  It has no way of knowing if one of your instances is in chat instead of in the game, etc.  THIS FEATURE SHOULD NOT BE USED WHEN “USE BLUEVEX2 PROXY” IS ENABLED.   The HeroMerc plugin will automatically exit all games whenever any instance exits a game.
+
+Game Actions: Quit From Chat
+
+This will send 3 Escape keypresses to all instances.  It is inteded to make each instance shut down from chat.  Again, no packet manipulation/detection.  If one of your instances is in game, at the character selection screen, or the login screen, this is going too cause the program to crap itself.
+
+Game Actions: Hell Game 1, Hell Game 2, …… , Nightmare Game 3
+
+Selecting one of the following will cause the Master to create a game, and all of the rest of the instances to join after a small delay.  Again, no packet manipulation/detection.  The game name and password and taken from the Games tab in Settings.  The game action is only capable of using the first 3 items in the Games tab.  If no password is listed for a corresponding game, it will be a public game.   Rememer that game names cannot be more than 15 characters long, the program will not check for this. THIS FEATURE SHOULD NOT BE USED WHEN “USE BLUEVEX2 PROXY” IS ENABLED.  The HeroMerc plugin will automatically join games whenever another instances creates a game.
+
+Sound
+
+Sound is provided from the window of any account associated at Master. 
+
+BlueVex2 Bugs/Limiations (Alpha 2 version)
+
+•   Currently there are many proxy events that are not linked up.
+•   The File/Exit menu item is not hooked up.  Close the program using the red X.
+•   The BlueVex2 window size is not tied to the resolution  scaling.  The program will always open at 1730x1320, but can be resized manually.
+•   Loading Diablo instances, closing them, then reloading will cause all keypresses to be registered twice.  Closing and reopening the program will correct this.  
+•   Adding a new Installation item does not add a new Diablo 2 tab until the program is restarted.
+•   HeroMerc causes all instances to exit a game whenever an indidvidual instance exits.  This should be changed  to only exit when the Master account exits.
+
+Copyright (c) 2010 Pheh
+
+This software is provided 'as-is' without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software.  Permission is grated to anyone to use this software for any purpose, including commercial applications, and to alter it and redistributie it freely, subject to the following restictions:
+1.  The origin of this software must not be  misrepresented; you must notclaim that you wrote the original software.  If you use this softare in a product, an acknowledgement in the product documentation is required.
+2.  Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+3.  This notice may not be removed or altered from any source
+This software borrows the ETUtils.dll, D2Packets.dll, D2Data.dll created/modified (I think) by Foosoft, Zoxc, Evan and possibly others.  
+Version Log
+
+Alpha 2 (by Fett007)
+
+•   Added resolution scaling options
+•   Added Game Actions support
+•   Added ability to disable BlueVex2 proxy
+•   Added ability to disable AutoLogin
+•   Added ability to specify character slots and Master status to accounts
+•   Enabled ability to play sound from the Master account.
+
+Alpha 1 (by Pleh)
+
+•   Intial BlueVex2 release
+•   Added proxy support
+•   Added multi-game loader functionality
+•   Added overview support
+•   Added overlay support
+•   Added auto-login support
+•   Added HeroMerc and HeroStats pluggin to demonstrate multi-instance support, overlay support, and navigation support.
